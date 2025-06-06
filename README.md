@@ -1,9 +1,7 @@
 
 # Correction for spurious taxonomic assignments of k-mer classifiers in low microbial biomass samples using shuffled sequences 
-
-## Transparency and Reproducibility
-
-This repository contains:         
+<br />
+**This repository contains:** <br />
 
  * Counts files produced by processing the sequences, see folder: `data`
  * Code to run the analysis component of the project, see folder: `R`
